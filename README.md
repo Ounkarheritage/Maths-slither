@@ -1,1 +1,1 @@
-# Maths-slither
+# Maths-Game
